@@ -1,7 +1,7 @@
-var homeContent = ``;
-var aboutContent = ``;
-var productsContent = ``;
-var contactContent = ``;
+// var homeContent = ``;
+// var aboutContent = ``;
+// var productsContent = ``;
+// var contactContent = ``;
 
 function initListeners() {
   $("nav a").on("click", (e) => {
